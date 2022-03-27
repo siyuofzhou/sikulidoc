@@ -1,8 +1,2 @@
-## Headline
-
-> An awesome project.
-
-### 标题2
-
-#### 标题2.1
+## [Sikuli X 1.0 文档](GlobalFunctionsandFeatures.md)
 
